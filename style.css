@@ -1,0 +1,20 @@
+/*
+Theme Name: A2-your-username
+
+Author: avneet kaur
+
+Template: astra
+Version: 1.0.0
+*/
+
+/* Custom styles for the advertising notice banner */
+@import url("../twentyfifteen/style.css");
+.advertising-banner {
+    background-color: #ffcc00; /* Change this color as needed */
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    position: relative;
+    z-index: 9999;
+}
